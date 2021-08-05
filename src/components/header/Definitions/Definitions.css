@@ -35,4 +35,7 @@ audio {
     .meanings {
         margin-bottom: 2rem;
     }
+    .card{
+        margin-bottom: 3rem;
+    }
 }
