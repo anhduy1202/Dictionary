@@ -1,0 +1,35 @@
+.meanings {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    overflow-y:scroll;
+    scrollbar-width: thin;
+    max-height:80%;
+    min-height: 50%;
+   border: 5px solid rgb(190, 188, 188);
+   border-radius: 10px;
+   padding: 10px;
+   
+}
+audio {
+    min-width:100%;
+    margin-top: 1.25rem;
+}
+
+.subTitle {
+    font-size:  2rem;
+    font-weight: 100;
+    font-family: 'Montserrat',sans-serif;
+}
+
+.card {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.icon {
+    color:grey;
+}
+.icon:hover {
+    color: goldenrod;
+}
