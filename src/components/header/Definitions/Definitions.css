@@ -30,6 +30,9 @@ audio {
 .icon {
     color:grey;
 }
-.icon:hover {
-    color: goldenrod;
+
+@media (max-width: 600px) {
+    .meanings {
+        margin-bottom: 2rem;
+    }
 }
